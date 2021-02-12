@@ -3,13 +3,13 @@
 Game sederhana yang dibuat menggunakan python3
 
 ### Screenshots
-<img src="https://i.top4top.io/p_18435zkzb0.png">
+<img src="demo.png">
 
 ### Installation
 
 - apt update && apt upgrade
 - apt install python
 - apt install git
-- git clone https://github.com/AwokID/GamePy
+- git clone https://github.com/DavitID/GamePy
 - cd GamePy
 - python game.py
